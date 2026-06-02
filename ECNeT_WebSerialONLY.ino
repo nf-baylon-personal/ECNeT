@@ -144,8 +144,6 @@ void loop() {
 
 
 //Callback Function for Receive
-//note that I still don't fucking understand how this works
-//some boolean flag argument that (somehow) prevents looping in the code.
 void rx() {
   rxFlag = true;
 }
