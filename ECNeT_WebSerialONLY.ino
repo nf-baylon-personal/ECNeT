@@ -40,7 +40,7 @@ volatile bool rxFlag = false;
 AsyncWebServer server(80);
 
 const char* ssid = "ECNeT_Node1";
-const char* password = "gwapocnorbert";
+const char* password = "password1";
 
 
 // WebSerial Server Callback
